@@ -1,0 +1,24 @@
+h1{
+  color: blue;
+  font-family: helvetica;
+  border: 10px solid lavender;
+  margin-left:500px;
+  padding:50px;
+}
+
+p {
+  color: red;
+  font-family: arial;
+  margin-left:500px;
+}
+
+body{
+  background-color: #c8d8c3;
+}
+
+img {
+  border: 5px solid magenta;
+  width:25%;
+  height:25%;
+  margin-left:500px;
+}
